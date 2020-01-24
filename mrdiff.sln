@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2018
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mrdiff", "mrdiff\mrdiff.csproj", "{9944046A-5693-4DE8-B580-61B4836821FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9944046A-5693-4DE8-B580-61B4836821FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9944046A-5693-4DE8-B580-61B4836821FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9944046A-5693-4DE8-B580-61B4836821FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9944046A-5693-4DE8-B580-61B4836821FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {110AA7B3-C8D0-4DBD-B42B-96A79BB1F34F}
+	EndGlobalSection
+EndGlobal
